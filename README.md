@@ -48,5 +48,3 @@ yarn || npm install
 yarn start || npm run start
 
 ```
-
-🎉🎉🎉 Made with ♥️ by Mohamed Abdel Nasser && Mohamed Khaled. 🎉🎉🎉
